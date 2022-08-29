@@ -1,5 +1,5 @@
 # VocabNow
-Computer Science project 2022/1
+Computer Science project 2022
 
 ## Blogeintrag-15.08.2022
 
