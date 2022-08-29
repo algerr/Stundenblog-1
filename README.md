@@ -1,19 +1,19 @@
 # VocabNow
 Computer Science project 2022/1
 
-##Blogeintrag-15.08.2022
+## Blogeintrag-15.08.2022
 
 Heute fand die erste Informatikstunde statt, in der wir uns mit der Frage beschäftigt haben, was im Informatikunterricht behandelt werden wird. Dabei wurde klar erläutert, dass der Informatikunterricht an der Stormarnschule sehr individuell und projektorientiert stattfindet und somit kein Frontalunterricht entsteht. Die Projektideen, werden sich in 2er Gruppen überlegt und daraufhin bis zu einer Deadline im Dezember erarbeitet und dokumentierte durch Blogeinträge in jeder Stunde, wie diesem hier für den 15. August. Was die Projekte angeht, ist die Entscheidung jeder Gruppe selbst überlassen. Von visuellen Blocksprachen über Websprachen wie Javascript bis zu C/++ ist alles möglich. Auch Hardware kann mit Hilfe von Arduinos sowie Zubehör und Bibliotheken programmiert werden. Aufgrund der großen Vielzahl an Möglichkeiten, kamen wir in der ersten Stunde noch nicht auf unsere Idee. Eine grundlegende Vorstellung hatten wir jedoch: Unsere Idee sollte softwarebasiert sein.
 
-##Blogeintrag-22.08.2022
+## Blogeintrag-22.08.2022
 
 Jeder kennt sie oder hat zumindest schonmal von ihnen gehört und spätestens seit der weiterführenden Schule haben viele schonmal versucht über sie ihren Wortschatz zu erweitern. Doch eines hat bei ihnen immer gefehlt, nämlich die Bequemlichkeit. Genau deshalb haben wir es uns zur Aufgabe gemacht einen Vokabeltrainer zu erstellen, welcher es dem Nutzer noch bequemer macht Vokabeln zu lernen. Begonnen haben wir mit Replit.com, da dies die ferngesteuerte Bearbeitung des Projektes von jedem Gerät aus ermöglicht. Wir haben unserem Vokabeltrainer den Namen „VocabNow“ gegeben, weil unser Vokabeltrainer auf Knopfdruck von überall nutzbar ist. Ein wichtiger Aspekt, der unseren Vokabeltrainer von anderen unterscheidet ist, dass wir eine Spracherkennung haben. Dafür nutzen wir „WebKitSpeechRecognition“ aus der Webspeech API, bereitgestellt durch das Mozilla Developer Network. Darüberhinaus haben wir eine Datenbank mit 10 englischen Vokabeln erstellt, welche als Probelauf dienen soll, damit wir schauen, ob es funktioniert. Genutzt haben wir dafür „RemoteMySQL“, welche es uns möglich gemacht hat die Online-Datenbank zu erstellen. Zu Beginn hatten wir das Problem, dass wir mehrere Datensätze für die selbe Vokabel hatten. Nach kurzer Zeit haben wir jedoch herausgefunden, wie sich ein Datensatz löschen lässt. Die nächste Herausforderung, die wir zu bewältigen hatten, war es unsere Vokabeldatenbank zufällig ausgeben zu lassen, was leider zunächst nicht funktioniert hatte. Deshalb werden wir uns der Lösung dieses Problems in der nächsten Stunde widmen.
 
-##Blogeintrag-25.08.2022
+## Blogeintrag-25.08.2022
 
 Nachdem wir zu Hause an unserem Projekt weiter gearbeitet hatten, waren wir nun dazu in der Lage auch das Problem mit unserer Datenbank zu lösen nämlich, dass diese nicht in der Lage war die erstellten Vokabeln zufällig auszugeben, was sie aber dank uns nun konnte. Da Laurenz aber leider heute nicht da war, und ich keine richtigen Programmierkenntnisse hatte, widmete ich mich der Erstellung unseres Grundgerüsts unserer Website. Dabei nutzte ich zunächst einmal nur "html", weil ich garkeine Erfahrung mit "css" habe und ich an "Java.Script" nicht alleine arbeiten wollte. Ich schaffte es in dieser Doppelstunde also zu lernen wie man den "head" bei "html" erstellt und wie man z.B. Bilder einfügt, Schriftgrößen bzw. Arten ändert oder aber auch die Farbe der Website wechselt. Außerdem überlegte ich mir, was man neben unserer Spracherkennung durch "WebKitSpeechRecognition“, die unseren Vokabeltrainer so besonders machen soll, noch einbauen könnte. Schnell kam ich zu der Idee dem User das Bedienen unserer Seite durch "Buttons" zu erleichtern, damit dieser z.B. einen anklicken kann, um direkt mit der Ausführung unseres Vokabeltrainers zu starten ohne sich mühselig auf die Suche machen zu müssen.
 
 
-##Blogeintrag-29.08.2022
+## Blogeintrag-29.08.2022
 
 Heute beschäftigte ich mich hauptsächlich mit "Java.Script", weil ich die Zeit durch Laurenz Abwesenheit nicht besser zu nutzen wusste. Bei dem Durchlesen der Informationen lernte ich viel über den Aspekt der "Variablen", welche wichtig für das Erstellen einer Website sind und einiges nebenbei auch wie man z.B. einen "Alert" oder eine "Addition" einbaut. Desweiteren fing ich in der zweiten Hälfte der zweiten Stunde damit an die Blockeinträge auf "Github" zu notieren, weil wir alles zuvor nur als Notizen festhielten. Zu Hause werden ich uns Laurenz dann die Zeit nutzen, um an unserem Vorhaben weiterzuarbeiten.
