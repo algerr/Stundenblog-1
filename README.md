@@ -15,4 +15,4 @@ Da uns das Problem der letzten Stunde mit der zufälligen Ausgabe von Vokabeln a
 
 ## Blogeintrag-29.08.2022
 
-Heute beschäftigte ich mich hauptsächlich mit "Java.Script", weil ich die Zeit durch Laurenz Abwesenheit nicht besser zu nutzen wusste. Bei dem Durchlesen der Informationen lernte ich viel über den Aspekt der "Variablen", welche wichtig für das Erstellen einer Website sind und einiges nebenbei auch wie man z.B. einen "Alert" oder eine "Addition" einbaut. Desweiteren fing ich in der zweiten Hälfte der zweiten Stunde damit an die Blockeinträge auf "Github" zu notieren, weil wir alles zuvor nur als Notizen festhielten. Zu Hause werden ich uns Laurenz dann die Zeit nutzen, um an unserem Vorhaben weiterzuarbeiten.
+Da Laurenz leider aufgrund von Krankheit nicht anwesend sein konnte, fokussierte sich Daniel heute auf das Erlernen der Programmiersprache Javascript, die bei einer Webseite für Funktionalität sorgt. Des Weiteren fing er an, die bisherigen Blogeinträge im Repository auf GitHub hochzuladen. Somit kann Laurenz die Blogeinträge später noch überarbeiten, sodass sie alle beisammen auf dem neusten Stand sind.
