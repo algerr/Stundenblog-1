@@ -20,3 +20,7 @@ Da Laurenz leider aufgrund von Krankheit nicht anwesend sein konnte, fokussierte
 ## Blogeintrag-05.09.2022
 
 Heute war Laurenz wieder da, weshalb wir nun endlich an unserem Projekt effizienter arbeiten konnten. Nun haben wir uns damit befasst mit "styles.css" unsere Webside zu verschönern. Da wir mit meinem erstellten Website-Design nicht so ganz zufrieden waren, haben wir nochmal das Design bzw. insbesondere die Hintergrundfarbe unser Webside verändert. Wir haben uns für etwas exotisches entschieden, nämlich einer Hintergrundfarbenkombination aus den Farben #4169e1, #3bb78f, #0bab64, wobei #4169e1 die eigentliche Hintergrundfarbe sein sollte und #3bb78f und #0bab64 das Muster. Wir hatten auch noch speziell versucht für das Muster ein "Linear-Gradient" einzubauen um einen konstanten Farbenübergang zu ermöglichen. Letztendlich haben wir uns dann doch dazu entschieden, den "Linear-Gradient" nicht zu benutzen, weil wir es nicht geschafft haben das erwünschte Ergebnis zu erzielen, und uns nicht zu lange damit beschäftigen wollten. 
+
+
+## Blogeintrag-05.09.2022
+In den letzten Tagen haben wir uns mit der Frage auseinandergesetzt, wie wir einen Hintergrund erstellen können, der unsere Nutzer bei Laune hält und amüsant wirkt. Dabei sind wir auf die Idee gekommen einen "Partical-Js" Hintergrund zu erstellen. Der Hintergrund, welchen wir gewählt bzw. erstellt haben, soll die Wirkung eines leeren Weltraums vermitteln, was wiederum beruhigend wirken soll, um aus dem stressigen Altag herauszukommen. 
