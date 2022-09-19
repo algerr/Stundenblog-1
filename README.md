@@ -29,3 +29,9 @@ In den letzten Tagen haben wir uns mit der Frage auseinandergesetzt, wie wir ein
 ## Blogeintrag-12.09.2022
 
 In dieser Doppelstunde haben wir uns ausgibig damit auseinandergesetzt das "Webkitspeechrecognition" in unsere Website einzubauen. Während wir anfangs Schwierigkeiten damit haten das Tool in die Website zu integrieren, waren wir nach ungefähr einer Stunde und dem vielen Durchlesen von Guides nun in der Lage die Spracherkennung einzubauen. Als Zusatz wollten wir ebenfalls noch einen Sound einbauen, der die richtige Antwort erklingen lassen sollte. Zwar funktionierte das Abspielen des Sounds auf dem Windows-Rechner, aber leider nicht auf unserem Ios Gerät. Dieses Problem zu beheben stellte eine erhebliche Schwierigkeit da, weshalb wir kurzzeitig diesen Schritt aufgeben mussten und uns nun der Aufgabe widmen die Datenbank aus "Mysql" einzubauen. Mit dieser Aufgabe werden wir uns nun von Zuhause aus beschäftigen müssen. 
+
+
+## Blogintrag-19.09.2022
+
+Zuhause haben wir nach langem rumprobieren festgestellt, dass die Idee die Datenbank aus "Mysql", die wir erstellt hatten, einzubauen, doch suboptimal verlief, weshalb wir uns dazu entschieden haben, eine Alternative hierfür zu finden. Nach strebsamen Überlegen haben wir ein Konzept gefunden, welches nach dem Prinzip eines Wörterbuches funktioniert, und die Rolle der vorher geplannten "Mysql" Datenbank übernehmen soll. 
+Das Tool trägt den Namen "JSON" und hat uns in der ersten Zeit Schwierigkeiten bereitet, weil wir es nicht geschafft haben, dass Tool so zu integrieren, sodass es seiner Aufgabe nachkommt. Nach langem rumprobieren, waren wir dann in der Lage dieses Tool  richtig einzubauen. 
