@@ -47,3 +47,8 @@ Die Spracherkunnung wurde heute nochmal mehrmals getestet und funktioniert einwa
 ## Blogeintrag-06.10.2022
 
 Heute beschäftigen wir uns  damit, die Text-to-speech Funktion in unseren Vokabeltrainer einzubauen, sodass das Gezeigte automatisch vorgelesen wird. Zudem möchten wir einen "Button" einbauen, der dem Nutzer ermöglichen soll, direkt auf knopfdruck zurück zum Menü zu gelangen. Der Einbau des Buttons lief relativ fix ab, während das Einbauen der Tex-to-speech Funktion Zeit brauchte. Mit dem Online-Dienst "[AppsGeyser]("https://www.apssgeyser.com)" konnten wir die Webseite bereits zu einer Android App konvertieren. Das nächste Ziel ist es nun, die App auch für iOS Geräte verfügbar zu machen.
+
+
+## Blogeintrag-24.10.2022
+
+Leider scheiterte das "VocabNow" Projekt daran, dass wir einen Apple-developer Account benötigten, um unsere schlussendlichen Ziele zu verwirklichen, was aber mit einem Preis von 100€ finanziell nicht machbar war. Deshalb entschlossen wir uns, in den 2-Wöchigen Herbstferien dazu, ein neues Projekt zu erstellen, welches nicht aufgrund von finanziellen Gründen scheitern sollte. Wir erstellten also eine Evolutionssimulation und waren innerhalb der Ferien mit dem Projekt beinahe fertig. Heute arbeiteten wir an einzelnen Details und fügten noch genauer , um die Funktionen unseres neuen Projekts verständlich zu erklären. Desweiteren übersetzen wir einzelne Dinge in die deutsche Sprache, weil dies ebenfalls ein Teil der Arbeit war, um die Dinge noch verständlicher zu machen. 
