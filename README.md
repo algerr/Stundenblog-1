@@ -3,7 +3,7 @@ Computer Science project 2022
 
 Table hier -------
 
-[Test-Eintrag](#blogeintrag-15082022)
+[15.08.2022](#blogeintrag-15082022)
 
 ------------------
 
