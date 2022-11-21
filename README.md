@@ -70,8 +70,8 @@ In der heutigen Doppelstunde haben wir weiterhin an den genannten Plänen vom 03
 
 ## Blogeintrag-14.11.2022
 
-In dieser Doppelstunde musste Herr Buhl krankheitsbedingt ausfallen, wodurch ich und Laurenz selbstständig an der Eklärung unseres Projekts "Survival of the fittest"  weiter gearbeitet haben. Wir hatten hierzu Kommentare im Quelltext überarbeitet und die Erklräungstexte nochmals verbessert formuliert, weil diese unserer Ansicht nach nicht verständlich genug waren. Außerdem haben wir noch passende Abbildungen zu den Texten zur Visualisierung hinzugefügt. 
+In dieser Doppelstunde musste Herr Buhl krankheitsbedingt ausfallen, wodurch ich und Laurenz selbstständig an der Eklärung unseres Projekts "Survival of the fittest"  weiter gearbeitet haben. Wir hatten hierzu Kommentare im Quelltext überarbeitet und die Erklräungstexte nochmals verbessert formuliert, weil diese unserer Ansicht nach nicht verständlich genug waren. Außerdem haben wir noch passende Abbildungen zu den Texten zur Visualisierung hinzugefügt. Bei der Bearbeitung ist uns noch aufgefallen, dass die Quellen bei den verschiedensten Dingen fehlten, weshalb wir diese raussuchen mussten, und in die passenden Zeilen in den einzelnen Texten ergänzt haben. 
 
 ## Blogeintrag-17.11.22 
 
-Die heutige Arbeit war sehr erfolgreich, da wir dazu im Stande die Überschrift für unser Projekt zu designen. Darüberhinaus erstellten wir eine Tabelle, um den Mutationswert und dessen Funktion zu erklären, weil dieser Aspekt in unserem Projekt schwierig nur durch einen Text zu verstehen ist.  
+Die heutige Arbeit war sehr erfolgreich, da wir dazu im Stande die Überschrift für unser Projekt zu designen. Darüberhinaus erstellten wir eine Tabelle, um den Mutationswert und dessen Funktion zu erklären, weil dieser Aspekt in unserem Projekt schwierig nur durch einen Text zu verstehen ist. In der abschließend übrig gebliebenen Zeit die wir noch für die Fertigstellung unseres Projekts haben, werden wir noch den Fokus auf die Erklärung der Bewegung setzen, weil diese der Kernaspekt unseres Projekts ist, und am schwierigsten zu verstehen ist.  
