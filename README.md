@@ -65,3 +65,12 @@ Da wir mit den Funktionen des Projektes entgültig fertig sind, haben wir uns he
 ## Blogeintrag-07.11.2022
 
 In der heutigen Doppelstunde haben wir weiterhin an den genannten Plänen vom 03.11.2022 gearbeitet, also unteranderem weitere Grafiken und Texte zu der erklärung unseres Projektes erstellt. Dabei haben wir [Carbon] (https://carbon.now.sh/) für unser Design genutzt, um unsere Protokolierung ansprechender und schöner zu gestalten. Dies haben wir allerdings nur für die Gestaltung unsereres Quelltext genutzt, da wir für das Erstellen aller weiteren Grafiken die Website [Carvas] (https://carbon.now.sh/) genutzt haben.
+
+
+## Blogeintrag-14.11.2022
+
+In dieser Doppelstunde musste Herr Buhl krankheitsbedingt ausfallen, wodurch ich und Laurenz selbstständig an der Eklärung unseres Projekts "Survival of the fittest"  weiter gearbeitet haben. Wir hatten hierzu Kommentare im Quelltext überarbeitet und die Erklräungstexte nochmals verbessert formuliert, weil diese unserer Ansicht nach nicht verständlich genug waren. Außerdem haben wir noch passende Abbildungen zu den Texten zur Visualisierung hinzugefügt. 
+
+## Blogeintrag-17.11.22 
+
+Die heutige Arbeit war sehr erfolgreich, da wir dazu im Stande die Überschrift für unser Projekt zu designen. Darüberhinaus erstellten wir eine Tabelle, um den Mutationswert und dessen Funktion zu erklären, weil dieser Aspekt in unserem Projekt schwierig nur durch einen Text zu verstehen ist.  
