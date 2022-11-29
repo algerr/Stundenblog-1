@@ -76,3 +76,9 @@ In dieser Doppelstunde musste Herr Buhl krankheitsbedingt ausfallen, wodurch ich
 ## Blogeintrag-17.11.22 
 
 Die heutige Arbeit war sehr erfolgreich, da wir dazu im Stande die Überschrift für unser Projekt zu designen. Darüberhinaus erstellten wir eine Tabelle, um den Mutationswert und dessen Funktion zu erklären, weil dieser Aspekt in unserem Projekt schwierig nur durch einen Text zu verstehen ist. In der abschließend übrig gebliebenen Zeit die wir noch für die Fertigstellung unseres Projekts haben, werden wir noch den Fokus auf die Erklärung der Bewegung setzen, weil diese der Kernaspekt unseres Projekts ist, und am schwierigsten zu verstehen ist.  
+
+## Blogeintrag-21.11.22
+
+In dieser Doppelstunde haben wir mit der Plannung des Herzstückes unseres Projekts begonnen, nämlich, der zufälligen Bewegung und dessen genauen Beschreibung, um anschließend die letzte Wissenslücke zu unserem Projekt für die Empfänger zu vervollständigen. Da die Bewegung ein sehr komplexer Prozess ist, wird es länger dauern diesen so präzise wie möglich zu formulieren, weshalb wir in den nächsten Informatikstunden ebenfalls weiterhin daran arbeiten werden. Darüberhinaus würden wir es noch sinnvoll finden einige Bilder zur Dokummentation unseres Arbeitsverhaltens zu machen, damit der Empfänger ebenfalls eine grobe Vorstellung davon hat, wie das Arbeiten bei uns ablief.  
+
+
