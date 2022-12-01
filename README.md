@@ -71,7 +71,7 @@ Für die Erstellung weiterer Grafiken, wie beispielsweise dem Genom, haben wir d
 
 ## Blogeintrag-14.11.2022
 
-In dieser Doppelstunde musste Herr Buhl krankheitsbedingt ausfallen, wodurch ich und Laurenz selbstständig an der Eklärung unseres Projekts "Survival of the fittest"  weiter gearbeitet haben. Wir hatten hierzu Kommentare im Quelltext überarbeitet und die Erklräungstexte nochmals verbessert formuliert, weil diese unserer Ansicht nach nicht verständlich genug waren. Außerdem haben wir noch passende Abbildungen zu den Texten zur Visualisierung hinzugefügt. Bei der Bearbeitung ist uns noch aufgefallen, dass die Quellen bei den verschiedensten Dingen fehlten, weshalb wir diese raussuchen mussten, und in die passenden Zeilen in den einzelnen Texten ergänzt haben. 
+Trotz dessen, dass Herr Buhl in dieser Doppelstunde krankheitsbedingt ausfallen musste, konnten wir selbstständig an unserem Projekt weiterarbeiten. Wir hatten hierzu Kommentare im Quelltext überarbeitet und die Erklräungstexte nochmals verbessert formuliert, weil diese unserer Ansicht nach nicht verständlich genug waren. Außerdem haben wir noch passende Abbildungen zu den Texten zur Visualisierung hinzugefügt. Bei der Bearbeitung ist uns noch aufgefallen, dass die Quellen bei den verschiedensten Dingen fehlten, weshalb wir diese raussuchen mussten, und in die passenden Zeilen in den einzelnen Texten ergänzt haben. 
 
 ## Blogeintrag-17.11.22 
 
