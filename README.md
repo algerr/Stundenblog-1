@@ -61,13 +61,13 @@ Leider scheiterte das "VocabNow"-Projekt daran, dass ein Apple-Developer-Account
 
 ## Blogeintrag-03.11.2022
 
-Da wir mit den Funktionen des Projektes entgültig fertig sind, haben wir uns heute hauptsächlich weiterhin mit dem Erstellen der Kommentare, um unser Projekt so verständlich und anschaulich wie möglich schlussendlich präsentieren zu können, beschäftigt. Da aber heute Laurenz nicht anwesend ist, beschäftige ich mich heute ausschließlich damit unsere Blogeinträge bei Github zu verschönern und strukturierter wirken zu lassen. Dabei habe ich einen Blick in unsere bisherigen Einträge geworfen und mögliche Teile abgeändert. Zudem sind ich und Laurenz der Meinung, dass eine Tabelle, die alle Blockeinträge nochmals geordnet und übersichtlich auflistet, eine Notwendigkeit ist, weshalb ich in dieser Doppelstunde eine ertstellt habe. Zudem möchten wir an einigen Stellen zusätliche Bilder in die Blogeinträge einfügen, um das geschriebene zu visualisieren. Besonders bei Prozessen, die sich nicht in Bildern erklären lassen, habe ich mich dazu entschieden "GIFs" einzublenden, weil ganze Videos den vorgegebenen Rahmen sprengen würden.
-
+Da die Funktionen des Projektes nun größtenteils endgültig sind, haben wir die heutige Doppelstunde damit verbracht, die Dokumentation auf GitHub sowie die Blogeinträge zu verschönern. Während Daniel die Blogeinträge überarbeitete, verschönerte Laurenz den Quelltext und versah in mit den letzten, nötigen Kommentaren. Um eine bessere Übersichtlichkeit zu erschaffen, haben wir die Daten der Blogeinträge in einer Tabelle am Anfang aufgelistet. So kann man direkt zum gewünschten Datum springen. Zudem haben wir weitere Grafiken hinzugefügt. 
+Am Anfang der Dokumentaton ist nun ein GIF von der laufenden Simulation zu sehen.
 
 ## Blogeintrag-07.11.2022
 
-In der heutigen Doppelstunde haben wir weiterhin an den genannten Plänen vom 03.11.2022 gearbeitet, also unteranderem weitere Grafiken und Texte zu der erklärung unseres Projektes erstellt. Dabei haben wir [Carbon] (https://carbon.now.sh/) für unser Design genutzt, um unsere Protokolierung ansprechender und schöner zu gestalten. Dies haben wir allerdings nur für die Gestaltung unsereres Quelltext genutzt, da wir für das Erstellen aller weiteren Grafiken die Website [Carvas] (https://carbon.now.sh/) genutzt haben.
-
+In der heutigen Doppelstunde haben wir weiterhin an den genannten Plänen vom 03.11.2022 gearbeitet. Weitere Grafiken und Texte haben wir hinzugefügt. Dabei haben wir [Carbon](https://carbon.now.sh/) für die Darstellung der Quelltextausschnitte genutzt, um die Dokumentation ansprechender und schöner zu gestalten.
+Für die Erstellung weiterer Grafiken, wie beispielsweise dem Genom, haben wir den kostenlosen Service [Canva](https://canva.com/) genutzt.
 
 ## Blogeintrag-14.11.2022
 
