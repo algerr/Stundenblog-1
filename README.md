@@ -34,7 +34,7 @@ In den letzten Tagen haben wir uns mit der Frage auseinandergesetzt, wie wir ein
 
 ## Blogeintrag-12.09.2022
 
-In dieser Doppelstunde haben wir uns ausgibig damit auseinandergesetzt das "Webkitspeechrecognition" in unsere Website einzubauen. Während wir anfangs Schwierigkeiten damit haten das Tool in die Website zu integrieren, waren wir nach ungefähr einer Stunde und dem vielen Durchlesen von Guides nun in der Lage die Spracherkennung einzubauen. Als Zusatz wollten wir ebenfalls noch einen Sound einbauen, der die richtige Antwort erklingen lassen sollte. Zwar funktionierte das Abspielen des Sounds auf dem Windows-Rechner, aber leider nicht auf unserem Ios Gerät. Dieses Problem zu beheben stellte eine erhebliche Schwierigkeit da, weshalb wir kurzzeitig diesen Schritt aufgeben mussten und uns nun der Aufgabe widmen die Datenbank aus "Mysql" einzubauen. Mit dieser Aufgabe werden wir uns nun von Zuhause aus beschäftigen müssen. 
+In dieser Doppelstunde haben wir uns ausgiebig damit auseinandergesetzt, das ["Webkitspeechrecognition"](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) in unsere Website einzubauen. Während die Schwierigkeiten anfangs schier unüberwindbar schienen waren sie mithilfe der Dokumentation gut lösbar. Als Zusatz wollten wir ebenfalls noch einen Geräusch einbauen, das die richtige Antwort akustisch erkennbar machen sollte. Zwar funktionierte die Wiedergabe der Audiodatei auf Windows, jedoch leider nicht auf iOS. Dieses Problem scheint, da das automatische Abspielen von Audiodateien im Browser von iOS blockiert wird, momentan unlösbar. Deshalb widmeten wir uns . Mit dieser Aufgabe werden wir uns nun von Zuhause aus beschäftigen müssen. 
 
 
 ## Blogeintrag-19.09.2022
