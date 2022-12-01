@@ -1,6 +1,6 @@
 ![Blogeinträge-header png](https://user-images.githubusercontent.com/111282979/203018930-fa86261e-0910-4fc8-a5cf-bf9099fd51e4.png)
 
-Computer Science project 2022
+Informatik-Projekt 2022
 
 |[Blogeintrag-15.08.22](#blogeintrag-15082022)|[Blogeintrag-22.08.22](#blogeintrag-22082022)|[Blogeintrag-25.08.22](#blogeintrag-25082022)|[Blogeintrag-29.08.22](#blogeintrag-29082022)|[Blogeintrag-05.09.22](#blogeintrag-05092022)|[Blogeintrag-12.09.22](#blogeintrag-12092022)|[Blogeintrag-19.09.22](#blogeintrag-19092022)|   
 |:-------------------:|-------------------:|-------------------:|-------------------:|-------------------:|-------------------:|-------------------:|
