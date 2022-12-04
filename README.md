@@ -15,6 +15,13 @@ Heute fand die erste Informatikstunde statt, in der wir uns mit der Frage besch�
 
 Wer eine Sprache erlernen will, kann sie nicht umgehen und spätestens seit der weiterführenden Schule sind sie aus dem Leben eines jeden von uns nicht mehr wegzudenken. **Vokabeln**. Doch ein Problem, das leider bisher keine Lösung hatte, stand dem "leichten Lernen nebenbei" schon immer im Weg. Um Vokabeln zu lernen muss entweder analog oder digital nachgeschlagen und mit voller Konzentration auf das jeweilige Medium geschaut werden, damit das Erlernen erfolgreich ist. Doch sich diese Zeit zu nehmen, ist für viele Menschen heutzutage gar nicht möglich, da noch so viele andere Dinge zu erledigen sind. Deshalb ist unsere Idee, einen Vokabeltrainer zu entwickeln, durch den man ganz nebenbei mit Spracherkennung Vokabeln lernen kann **VocabNow**. Man nimmt seine Kopfhörer und schon kann man, während z.B. die Hausarbeit erledigt wird, seinen Wortschatz erweitern und man muss sich keine Zeit nehmen, um auf altmodische Art und Weise Vokabeln zu lernen. Als Entwicklungsumgebung (IDE) verwenden wir [Replit.com](https://www.replit.com), da diese uns eine ferngesteuerte Arbeit ermöglicht, sodass bei Krankheit und nach dem Unterricht am Projekt weitergearbeitet werden kann. Der Name **VocabNow** rührt daher, dass unser Vokabeltrainer ein Lernen auf Knopfdruck ermöglichen soll. In jeder Situation und Lage soll es möglich sein, seinen Wortschatz zu erweitern, ohne sich auf sein Handy konzentrieren zu müssen. Stand 22. August 2022 gibt es keinen anderen Vokabeltrainer, der diese Möglichkeit bietet. Für die Spracherkennung wird „WebKitSpeechRecognition“ aus der Webspeech API, bereitgestellt durch das [Mozilla Developer Network](https://developer.mozilla.org/de/), genutzt. Darüberhinaus haben wir für den Anfang eine Datenbank mit 10 englischen Vokabeln erstellt, welche als Probelauf dienen soll, um zu zeigen, ob das Ganze funktioniert. Für die [MySQL-Datenbank](https://www.mysql.com/) wird  [RemoteMySQL](https://remotemysql.com/) genutzt, was uns das Erstellen und Verwalten online möglich macht. Zu Beginn bestand das Problem, mehrere Datensätze für dieselbe Vokabel zu haben. Nach kurzer Zeit fanden wir jedoch heraus, wie sich ein Datensatz löschen ließ. Die nächste Herausforderung bestand jedoch nun darin, eine zufällige Vokabel ausgeben zu können, da das Vokabellernen in der immer gleichen Reihenfolge auf Dauer keinen Sinn ergibt. Leider funktionierte das Ganze bis zum Ende der Stunde nicht wirklich, sodass wir uns der Lösung dieses Problems in der nächsten Stunde widmen werden.
 
+![image](https://user-images.githubusercontent.com/111282979/205522504-f448b185-96fb-4b62-862a-c1130ec3594f.png)
+![image](https://user-images.githubusercontent.com/111282979/205522586-31a26650-6d72-4219-acac-872d20097c18.png)
+![image](https://user-images.githubusercontent.com/111282979/205522699-59fd37f9-ea48-4429-9aab-5a7cdaba4926.png)
+![image](https://user-images.githubusercontent.com/111282979/205522709-038dc572-3013-45fd-9f64-c4ca51cd3599.png)
+
+
+
 
 ## Blogeintrag-25.08.2022
 
@@ -28,6 +35,8 @@ Da Laurenz leider krankheitsbedingt nicht anwesend sein konnte, fokussierte sich
 
 Heute war Laurenz wieder da, weshalb nun endlich eine effiziente Arbeit an unserem Projekt möglich war. Nun haben wir uns damit befasst, mit [**CSS (Cascading-Style-Sheets)**](https://de.wikipedia.org/wiki/Cascading_Style_Sheets) die Webseite nutzerfreundlich zu machen. An der, von Daniel erstellten Webseite der letzten Stunde, arbeiteten wir weiter und nahmen besonders in Bezug auf den Hintergrund Änderungen vor. Uns stand der Sinn nach etwas außergewöhnlichem, wie z.B. der Hintergrundfarbenkombination aus Königsblau (#4169e1), Lindgrün (#3bb78f), Dunkelcyan (#0bab64), wobei Königsblau (#4169e1) die eigentliche Hintergrundfarbe sein sollte und Lindgrün (#3bb78f) mit Dunkelcyan (#0bab64) das Muster bilden sollte. Wir hatten auch noch speziell versucht, für das Muster einen "Linear-Gradienten" einzubauen, um einen konstanten Farbübergang zu ermöglichen. Letztendlich haben wir uns dann doch dazu entschieden, den "Linear-Gradienten" nicht zu benutzen, weil das gewünschte Ergebnis leider nicht erzielt werden konnte. Vielleicht können wir das ja in der nächsten Stunde beenden.
 
+![image](https://user-images.githubusercontent.com/111282979/205522775-52654479-3df5-4e7d-89f0-909ed80267f1.png)
+
 
 
 ## Blogeintrag-05.09.2022
@@ -38,7 +47,8 @@ In den letzten Tagen haben wir uns mit der Frage auseinandergesetzt, wie wir ein
 
 In dieser Doppelstunde haben wir uns ausgiebig damit auseinandergesetzt, das ["Webkitspeechrecognition"](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition) in unsere Website einzubauen. Während die Schwierigkeiten anfangs schier unüberwindbar schienen waren sie mithilfe der Dokumentation gut lösbar. Als Zusatz wollten wir ebenfalls noch einen Geräusch einbauen, das die richtige Antwort akustisch erkennbar machen sollte. Zwar funktionierte die Wiedergabe der Audiodatei auf Windows, jedoch leider nicht auf iOS. Dieses Problem scheint, da das automatische Abspielen von Audiodateien im Browser von iOS blockiert wird, momentan unlösbar. Deshalb widmeten wir uns der Integration der [MySQL-Datenbank](https://www.mysql.com/). Diese Aufgabe begleitet uns in die nächste Stunde.
 
-![blogeintrag laurenz 1](https://user-images.githubusercontent.com/111282979/205521938-bb3dd0ce-d1d9-4088-a279-ec8eae2bb287.png)
+![blogeintrag laurenz 1](https://user-images.githubusercontent.com/111282979/205521938-bb3dd0ce-d1d9-4088-a279-ec8eae2bb287.png) ![image](https://user-images.githubusercontent.com/111282979/205522878-e2d70ea1-f1f7-433c-85d9-8a7a5ea865c1.png)
+
 
 
 
@@ -61,6 +71,8 @@ Die Spracherkennung wurde heute nochmal mehrmals getestet und funktioniert einwa
 ## Blogeintrag-06.10.2022
 
 Heute beschäftigen wir uns damit, die Text-To-Speech-Funktion in unseren Vokabeltrainer einzubauen, sodass die gefragte Vokabel automatisch vorgelesen wird. Zudem möchten wir einen "Button" einbauen, der es dem Nutzer ermöglichen soll, direkt auf Knopfdruck zurück zum Menü zu gelangen. Der Einbau des Buttons lief relativ schnell, während das Einbauen der Tex-To-Speech-Funktion Zeit benötigte. Mit dem Online-Dienst "[AppsGeyser]("https://www.apssgeyser.com)" konnten wir die Webseite bereits zu einer Android App konvertieren. Nach der Konvertierung war die App leider nicht richtig benutzbar, weshalb wir in der nächsten Stunde daran weiterarbeiten werden und auch schon versuchen, die App auch für iOS zugänglich zu machen.
+
+![image](https://user-images.githubusercontent.com/111282979/205522951-00921a66-bb98-4ff6-95fa-8a468d7bb3c5.png)
 
 
 ## Blogeintrag-24.10.2022
