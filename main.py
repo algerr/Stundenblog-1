@@ -141,16 +141,13 @@ def renderFenster(Fenster):
                 farbe[1] -= min(farbe[1], int(40 + abs(genom.z_gen * 60)) * 2 / FunktionellesGenom)
             if genom.x_gen[1] == 1 and genom.y_gen[1] == 4:
                 farbe[2] += max(-farbe[2], min(254 - farbe[2], (80 + genom.z_gen * 60) / FunktionellesGenom))
-        #print(farbe[0])
-        #print(farbe[1])
-        #print(farbe[2])
         # Alle Wesen werden gezeichnet                                         (Passende x und y Position im Fenster),     passende Breite und Höhe
         pygame.draw.rect(Fenster, (int(farbe[0]), int(farbe[1]), int(farbe[2])), (30 + Wesen.pos[0] * 8, 30 + Wesen.pos[1] * 8, 7, 7))
         # Die Positionen der Wesen werden gespeichert
         PositionsListe[7].append([Wesen.pos[0], Wesen.pos[1]])
     # Die Schriftart (keine Besondere) und Größe werden festgelegt
     generationsIndikator = pygame.font.Font(None, 30)
-    # Es soll Generation: (Generationsnummer) in Orange geschrieben werden.
+    # Es soll: "Generation: (Generationsanzahl)" in Orange geschrieben werden.
     # Das True bezieht sich auf Antialiasing. Damit werden unerwünschte Pixel, die durch das Pixelraster entstehen, vermindert.
     # Der Text ist geglättet und nicht verpixelt
     generationsRendering = generationsIndikator.render("Generation:" + str(Generation[0]), True, (255, 120, 0))
