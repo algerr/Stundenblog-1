@@ -101,14 +101,14 @@ Darüberhinaus würden noch weitere Grafiken und Quelltextausschnitte behilflich
 
 ## Quellen 
 
-- https://replit.com/
-- https://www.mysql.com/
+- [Zum ferngesteuerten Arbeiten](https://replit.com/)
+- [Zur Erstellung der Vokabeldatenbank](https://www.mysql.com/)
 - https://user-images.githubusercontent.com/111282979/205522775-52654479-3df5-4e7d-89f0-909ed80267f1.png
 - https://user-images.githubusercontent.com/111282979/205522878-e2d70ea1-f1f7-433c-85d9-8a7a5ea865c1.png
 - https://user-images.githubusercontent.com/111282979/205522951-00921a66-bb98-4ff6-95fa-8a468d7bb3c5.png
 - [Zum Erstellen der Überschrift](https://leviarista.github.io/github-profile-header-generator/)
 - https://developer.mozilla.org/en-US/?retiredLocale=dehttps://de.wikipedia.org/wiki/Hypertext_Markup_Language
 - https://de.wikipedia.org/wiki/Cascading_Style_Sheets
-- https://particles.js.org/
+- [Das Design von VocabNow](https://particles.js.org/)
 
 
