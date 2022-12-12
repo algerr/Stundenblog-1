@@ -105,8 +105,7 @@ Darüberhinaus würden noch weitere Grafiken und Quelltextausschnitte behilflich
 - https://user-images.githubusercontent.com/111282979/205522878-e2d70ea1-f1f7-433c-85d9-8a7a5ea865c1.png
 - https://user-images.githubusercontent.com/111282979/205522951-00921a66-bb98-4ff6-95fa-8a468d7bb3c5.png
 - [Zum Erstellen der Überschrift](https://leviarista.github.io/github-profile-header-generator/)
-- https://developer.mozilla.org/en-US/?retiredLocale=de
-- 
+- https://developer.mozilla.org/en-US/?retiredLocale=dehttps://de.wikipedia.org/wiki/Hypertext_Markup_Language
 
 
 
