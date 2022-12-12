@@ -106,6 +106,7 @@ Darüberhinaus würden noch weitere Grafiken und Quelltextausschnitte behilflich
 - https://user-images.githubusercontent.com/111282979/205522951-00921a66-bb98-4ff6-95fa-8a468d7bb3c5.png
 - [Zum Erstellen der Überschrift](https://leviarista.github.io/github-profile-header-generator/)
 - https://developer.mozilla.org/en-US/?retiredLocale=dehttps://de.wikipedia.org/wiki/Hypertext_Markup_Language
+- https://de.wikipedia.org/wiki/Cascading_Style_Sheets
 
 
 
