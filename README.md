@@ -110,6 +110,7 @@ Darüberhinaus würden noch weitere Grafiken und Quelltextausschnitte behilflich
 - https://developer.mozilla.org/en-US/?retiredLocale=dehttps://de.wikipedia.org/wiki/Hypertext_Markup_Language
 - [Die Spracherkunng von VocabNow](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
 - https://de.wikipedia.org/wiki/Cascading_Style_Sheets
+- https://de.wikipedia.org/wiki/Hypertext_Markup_Language
 - [Das Design von VocabNow](https://particles.js.org/)
 
 
