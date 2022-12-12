@@ -31,7 +31,7 @@ Da Laurenz leider krankheitsbedingt nicht anwesend sein konnte, fokussierte sich
 
 Heute war Laurenz wieder da, weshalb nun endlich eine effiziente Arbeit an unserem Projekt möglich war. Nun haben wir uns damit befasst, mit [**CSS (Cascading-Style-Sheets)**](https://de.wikipedia.org/wiki/Cascading_Style_Sheets) die Webseite nutzerfreundlich zu machen. An der, von Daniel erstellten Webseite der letzten Stunde, arbeiteten wir weiter und nahmen besonders in Bezug auf den Hintergrund Änderungen vor. Uns stand der Sinn nach etwas außergewöhnlichem, wie z.B. der Hintergrundfarbenkombination aus Königsblau (#4169e1), Lindgrün (#3bb78f), Dunkelcyan (#0bab64), wobei Königsblau (#4169e1) die eigentliche Hintergrundfarbe sein sollte und Lindgrün (#3bb78f) mit Dunkelcyan (#0bab64) das Muster bilden sollte. Wir hatten auch noch speziell versucht, für das Muster einen "Linear-Gradienten" einzubauen, um einen konstanten Farbübergang zu ermöglichen. Letztendlich haben wir uns dann doch dazu entschieden, den "Linear-Gradienten" nicht zu benutzen, weil das gewünschte Ergebnis leider nicht erzielt werden konnte. Vielleicht können wir das ja in der nächsten Stunde beenden.
 
-[![image](https://user-images.githubusercontent.com/111282979/205522775-52654479-3df5-4e7d-89f0-909ed80267f1.png)](https://wiki.selfhtml.org/wiki/CSS)
+![image](https://user-images.githubusercontent.com/111282979/205522775-52654479-3df5-4e7d-89f0-909ed80267f1.png)
 
 
 
@@ -108,6 +108,7 @@ Darüberhinaus würden noch weitere Grafiken und Quelltextausschnitte behilflich
 - https://user-images.githubusercontent.com/111282979/205522951-00921a66-bb98-4ff6-95fa-8a468d7bb3c5.png
 - [Zum Erstellen der Überschrift](https://leviarista.github.io/github-profile-header-generator/)
 - https://developer.mozilla.org/en-US/?retiredLocale=dehttps://de.wikipedia.org/wiki/Hypertext_Markup_Language
+- [Die Spracherkunng von VocabNow](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
 - https://de.wikipedia.org/wiki/Cascading_Style_Sheets
 - [Das Design von VocabNow](https://particles.js.org/)
 
