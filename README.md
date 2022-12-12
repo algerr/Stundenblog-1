@@ -2,7 +2,7 @@
 
 |[Blogeintrag-15.08.22](#blogeintrag-15082022)|[Blogeintrag-22.08.22](#blogeintrag-22082022)|[Blogeintrag-25.08.22](#blogeintrag-25082022)|[Blogeintrag-29.08.22](#blogeintrag-29082022)|
 :-------------------:|-------------------:|-------------------:|-------------------:|
-[Blogeintrag-05.09.22](#blogeintrag-05092022)|[Blogeintrag-12.09.22](#blogeintrag-12092022)|[Blogeintrag-19.09.22](#blogeintrag-19092022)|[Blogeintrag-22.09.22](#blogeintrag-22092022)|
+[Blogeintrag-05.09.22](#blogeintrag-05092022)|[Blogeintrag-08.09.22](#blogeintrag-08092022)|[Blogeintrag-12.09.22](#blogeintrag-12092022)|[Blogeintrag-19.09.22](#blogeintrag-19092022)|[Blogeintrag-22.09.22](#blogeintrag-22092022)|
 [Blogeintrag-26.09.22](#blogeintrag-26092022)|[Blogeintrag-06.10.22](#blogeintrag-06102022)|[Blogeintrag-24.10.22](#blogeintrag-24102022)|[Blogeintrag-03.11.22](#blogeintrag-03112022)|
 [Blogeintrag-07.11.22](#blogeintrag-07112022)|[Blogeintrag-14.11.22](#blogeintrag-14112022)|[Blogeintrag-17.11.22](#blogeintrag-17112022)|[Blogeintrag-21.11.22](#blogeintrag-21112022)|
 
@@ -33,9 +33,7 @@ Heute war Laurenz wieder da, weshalb nun endlich eine effiziente Arbeit an unser
 
 ![image](https://user-images.githubusercontent.com/111282979/205522775-52654479-3df5-4e7d-89f0-909ed80267f1.png)
 
-
-
-## Blogeintrag-05.09.2022
+## Blogeintrag-08.09.2022
 In den letzten Tagen haben wir uns mit der Frage auseinandergesetzt, wie wir einen Hintergrund erstellen können, der unsere Nutzer bei Laune hält und amüsant wirkt. Dabei sind wir auf die Idee gekommen einen ["Particles-JS"](https://particles.js.org/) Hintergrund zu erstellen. Der Hintergrund, welchen wir gewählt, bzw. erstellt haben, soll die Wirkung eines leeren Weltraums vermitteln, was wiederum beruhigend wirken soll, um aus dem stressigen Altag herauszukommen und entspanntes Lernen zu ermöglichen. Als Farbenschrift haben wir uns für Orange entschieden, weil das die Spontanität beflügelt und Lebensfreude verleiht. Zudem ist Orange auch in der Lage, Selbstvertrauen und Unabhängigkeit bei unseren Nutzern zu implizieren. Darüberhinaus bauten wir unseren "Slogan" in unsere Webseite ein. "Lerne, wann und wo du willst." Dieser "Slogan" charakterisiert ziemlich präzise die Absicht hinter unserem Projekt. Der Vokabeltrainer soll überall und zu jederzeit abrufbar sein. Der Nutzer soll entscheiden können, wann und wo er lernen möchte. Nachdem nun das Design soweit fertig war, erstellten wir den lange geplanten "Button", wodurch mit einem Klick die Weiterleitung zum "Start" des Vokabeltrainers erfolgen sollte. Nun bestand die Schwierigkeit darin, unsere Spracherkennung, das ["Webkitspeechrecognition"](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition), einzubauen. Mit diesem Problem werden wir uns dann in der nächsten Stunde auseinandersetzen.
 
 ![image](https://user-images.githubusercontent.com/65679099/207006861-6e88dd1a-216d-49bd-bc9c-0903ac8de394.png)
