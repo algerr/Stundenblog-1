@@ -38,7 +38,7 @@ Heute war Laurenz wieder da, weshalb nun endlich eine effiziente Arbeit an unser
 ## Blogeintrag-05.09.2022
 In den letzten Tagen haben wir uns mit der Frage auseinandergesetzt, wie wir einen Hintergrund erstellen können, der unsere Nutzer bei Laune hält und amüsant wirkt. Dabei sind wir auf die Idee gekommen einen ["Particles-JS"](https://particles.js.org/) Hintergrund zu erstellen. Der Hintergrund, welchen wir gewählt, bzw. erstellt haben, soll die Wirkung eines leeren Weltraums vermitteln, was wiederum beruhigend wirken soll, um aus dem stressigen Altag herauszukommen und entspanntes Lernen zu ermöglichen. Als Farbenschrift haben wir uns für Orange entschieden, weil das die Spontanität beflügelt und Lebensfreude verleiht. Zudem ist Orange auch in der Lage, Selbstvertrauen und Unabhängigkeit bei unseren Nutzern zu implizieren. Darüberhinaus bauten wir unseren "Slogan" in unsere Webseite ein. "Lerne, wann und wo du willst." Dieser "Slogan" charakterisiert ziemlich präzise die Absicht hinter unserem Projekt. Der Vokabeltrainer soll überall und zu jederzeit abrufbar sein. Der Nutzer soll entscheiden können, wann und wo er lernen möchte. Nachdem nun das Design soweit fertig war, erstellten wir den lange geplanten "Button", wodurch mit einem Klick die Weiterleitung zum "Start" des Vokabeltrainers erfolgen sollte. Nun bestand die Schwierigkeit darin, unsere Spracherkennung, das ["Webkitspeechrecognition"](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition), einzubauen. Mit diesem Problem werden wir uns dann in der nächsten Stunde auseinandersetzen.
 
-![image](https://user-images.githubusercontent.com/65679099/207006608-db903b2f-cce4-43fb-80af-894c77a5a4e4.png)
+![image](https://user-images.githubusercontent.com/65679099/207006355-a5914d1a-90c9-4123-8ab6-f82ad5980a22.png)
 
 ## Blogeintrag-12.09.2022
 
@@ -110,5 +110,6 @@ Darüberhinaus würden noch weitere Grafiken und Quelltextausschnitte behilflich
 - https://de.wikipedia.org/wiki/Cascading_Style_Sheets
 - https://de.wikipedia.org/wiki/Hypertext_Markup_Language
 - [Das Design von VocabNow](https://particles.js.org/)
+- [Alternative Datenbank zu MySQL](https://www.json.org/json-de.html)
 
 
