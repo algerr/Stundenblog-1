@@ -81,6 +81,10 @@ Am Anfang der Dokumentaton ist nun ein GIF von der laufenden Simulation zu sehen
 In der heutigen Doppelstunde haben wir weiterhin an den genannten Plänen vom 03.11.2022 gearbeitet. Weitere Grafiken und Texte haben wir hinzugefügt. Dabei haben wir [Carbon](https://carbon.now.sh/) für die Darstellung der Quelltextausschnitte genutzt, um die Dokumentation ansprechender und schöner zu gestalten.
 Für die Erstellung weiterer Grafiken, wie beispielsweise dem Genom, haben wir den kostenlosen Service [Canva](https://canva.com/) genutzt.
 
+[![image](https://user-images.githubusercontent.com/111282979/207607695-f59cfdbe-e0de-4130-9376-e7e96c5d09e6.png)](https://carbon.now.sh/)
+[![image](https://user-images.githubusercontent.com/111282979/207607990-3a563ed5-2677-4991-8928-ec93aa2e8a44.png)](https://canva.com/)
+
+
 ## Blogeintrag-14.11.2022
 
 Trotz dessen, dass Herr Buhl in dieser Doppelstunde krankheitsbedingt ausfallen musste, konnten wir selbstständig an unserem Projekt weiterarbeiten. Wir hatten hierzu Kommentare im Quelltext überarbeitet und die Erklräungstexte nochmals verbessert formuliert, weil diese unserer Ansicht nach nicht verständlich genug waren. Außerdem haben wir noch passende Abbildungen zu den Texten zur Visualisierung hinzugefügt. Bei der Bearbeitung ist uns noch aufgefallen, dass die Quellen bei den verschiedensten Dingen fehlten, weshalb wir diese raussuchen mussten, und in die passenden Zeilen in den einzelnen Texten ergänzt haben. 
