@@ -5,7 +5,6 @@
 [Blogeintrag-05.09.22](#blogeintrag-05092022)|[Blogeintrag-08.09.22](#blogeintrag-08092022)|[Blogeintrag-12.09.22](#blogeintrag-12092022)|[Blogeintrag-19.09.22](#blogeintrag-19092022)|[Blogeintrag-22.09.22](#blogeintrag-22092022)|
 [Blogeintrag-26.09.22](#blogeintrag-26092022)|[Blogeintrag-06.10.22](#blogeintrag-06102022)|[Blogeintrag-24.10.22](#blogeintrag-24102022)|[Blogeintrag-03.11.22](#blogeintrag-03112022)|
 [Blogeintrag-07.11.22](#blogeintrag-07112022)|[Blogeintrag-14.11.22](#blogeintrag-14112022)|[Blogeintrag-17.11.22](#blogeintrag-17112022)|[Blogeintrag-21.11.22](#blogeintrag-21112022)|
-:-------------------:|
 [Blogeintrag-12.12.22](#blogeintrag-12122022)|
 
 ## Blogeintrag-15.08.2022
