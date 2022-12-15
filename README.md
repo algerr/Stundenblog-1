@@ -33,7 +33,7 @@ Da Laurenz leider krankheitsbedingt nicht anwesend sein konnte, fokussierte sich
 
 Heute war Laurenz wieder da, weshalb nun endlich eine effiziente Arbeit an unserem Projekt möglich war. Nun haben wir uns damit befasst, mit [**CSS (Cascading-Style-Sheets)**](https://de.wikipedia.org/wiki/Cascading_Style_Sheets) die Webseite nutzerfreundlich zu machen. An der, von Daniel erstellten Webseite der letzten Stunde, arbeiteten wir weiter und nahmen besonders in Bezug auf den Hintergrund Änderungen vor. Uns stand der Sinn nach etwas außergewöhnlichem, wie z.B. der Hintergrundfarbenkombination aus Königsblau (#4169e1), Lindgrün (#3bb78f), Dunkelcyan (#0bab64), wobei Königsblau (#4169e1) die eigentliche Hintergrundfarbe sein sollte und Lindgrün (#3bb78f) mit Dunkelcyan (#0bab64) das Muster bilden sollte. Wir hatten auch noch speziell versucht, für das Muster einen "Linear-Gradienten" einzubauen, um einen konstanten Farbübergang zu ermöglichen. Letztendlich haben wir uns dann doch dazu entschieden, den "Linear-Gradienten" nicht zu benutzen, weil das gewünschte Ergebnis leider nicht erzielt werden konnte. Vielleicht können wir das ja in der nächsten Stunde beenden.
 
-[![image](https://user-images.githubusercontent.com/111282979/205522775-52654479-3df5-4e7d-89f0-909ed80267f1.png)](https://wiki.selfhtml.org/wiki/CSS)
+![image](https://user-images.githubusercontent.com/111282979/205522775-52654479-3df5-4e7d-89f0-909ed80267f1.png)
 
 ## Blogeintrag-08.09.2022
 In den letzten Tagen haben wir uns mit der Frage auseinandergesetzt, wie wir einen Hintergrund erstellen können, der unsere Nutzer bei Laune hält und amüsant wirkt. Dabei sind wir auf die Idee gekommen einen ["Particles-JS"](https://particles.js.org/) Hintergrund zu erstellen. Der Hintergrund, welchen wir gewählt, bzw. erstellt haben, soll die Wirkung eines leeren Weltraums vermitteln, was wiederum beruhigend wirken soll, um aus dem stressigen Altag herauszukommen und entspanntes Lernen zu ermöglichen. Als Farbenschrift haben wir uns für Orange entschieden, weil das die Spontanität beflügelt und Lebensfreude verleiht. Zudem ist Orange auch in der Lage, Selbstvertrauen und Unabhängigkeit bei unseren Nutzern zu implizieren. Darüberhinaus bauten wir unseren "Slogan" in unsere Webseite ein. "Lerne, wann und wo du willst." Dieser "Slogan" charakterisiert ziemlich präzise die Absicht hinter unserem Projekt. Der Vokabeltrainer soll überall und zu jederzeit abrufbar sein. Der Nutzer soll entscheiden können, wann und wo er lernen möchte. Nachdem nun das Design soweit fertig war, erstellten wir den lange geplanten "Button", wodurch mit einem Klick die Weiterleitung zum "Start" des Vokabeltrainers erfolgen sollte. Nun bestand die Schwierigkeit darin, unsere Spracherkennung, das ["Webkitspeechrecognition"](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition), einzubauen. Mit diesem Problem werden wir uns dann in der nächsten Stunde auseinandersetzen.
@@ -57,15 +57,17 @@ Nun ist der Vokabeltrainer schon sehr weit gediehen. Der Vokabeltrainer ist bere
 
 ![blogeintrag laurenz 2](https://user-images.githubusercontent.com/111282979/205522000-f3d112cd-4f45-480d-a452-b73058150949.png)
 
+
 ## Blogeintrag-26.09.2022
 
 Die Spracherkennung wurde heute nochmal mehrmals getestet und funktioniert einwandfrei. Eine Vorlesestimme, welche die abgefragten Vokabeln vorliest, wurde ebenfalls eingebaut, funktioniert aber leider nicht auf iOS, wegen der bereits genannten Sicherheitsblockade. Zum Glück bezieht sich dies nur auf Webseiten, weshalb wir das Problem mit der Umwandlung unseres Vokabeltrainers in eine App beheben können sollten. Ebenfalls hatten wir uns überlegt, eine Funktion einzubauen, um Vokabeln, die man nicht kennt, überspringen zu können. Das soll erfolgen können, wenn die Spracherkennenung den Begriff "Weiter" vernimmt. Leider ist dies nun zu unserer größten Herausforderung geworden, weshalb wir uns damit noch mehr auseinandersetzen werden. Stattdessen haben wir aber bereits einen Zähler für richtige und falsche Vokbalen eingefügt, damit man eine Quote sieht, wie gut, bzw. schlecht man die Vokabeln kann. Die grüne "0" steht dabei für die Anzahl der richtig beantworteten Vokabeln und die rote "0" für die nicht beantworteten Vokabeln.
 
 ![carbon (7)](https://user-images.githubusercontent.com/65679099/207882704-c49daf65-b4e2-4f20-8d63-061a4aefebc2.png)
 
+
 ## Blogeintrag-06.10.2022
 
-Heute beschäftigen wir uns damit, die Text-To-Speech-Funktion in unseren Vokabeltrainer einzubauen, sodass die gefragte Vokabel automatisch vorgelesen wird. Zudem möchten wir einen "Button" einbauen, der es dem Nutzer ermöglichen soll, direkt auf Knopfdruck zurück zum Menü zu gelangen. Der Einbau des Buttons lief relativ schnell, während das Einbauen der Text-To-Speech-Funktion Zeit benötigte. Mit dem Online-Dienst "[AppsGeyser]("https://www.apssgeyser.com)" konnten wir die Webseite bereits zu einer Android App konvertieren. Nach der Konvertierung war die App leider nicht richtig benutzbar, weshalb wir in der nächsten Stunde daran weiterarbeiten werden und auch schon versuchen, die App auch für iOS zugänglich zu machen.
+Heute beschäftigen wir uns damit, die Text-To-Speech-Funktion in unseren Vokabeltrainer einzubauen, sodass die gefragte Vokabel automatisch vorgelesen wird. Zudem möchten wir einen "Button" einbauen, der es dem Nutzer ermöglichen soll, direkt auf Knopfdruck zurück zum Menü zu gelangen. Der Einbau des Buttons lief relativ schnell, während das Einbauen der Tex-To-Speech-Funktion Zeit benötigte. Mit dem Online-Dienst "[AppsGeyser]("https://www.apssgeyser.com)" konnten wir die Webseite bereits zu einer Android App konvertieren. Nach der Konvertierung war die App leider nicht richtig benutzbar, weshalb wir in der nächsten Stunde daran weiterarbeiten werden und auch schon versuchen, die App auch für iOS zugänglich zu machen.
 
 ![image](https://user-images.githubusercontent.com/111282979/205522951-00921a66-bb98-4ff6-95fa-8a468d7bb3c5.png)
 
@@ -108,6 +110,9 @@ Darüberhinaus würden noch weitere Grafiken und Quelltextausschnitte behilflich
 
 Heute haben wir uns damit beschäftigt Phython auf dem PC von Herr Buhl zu installieren. Dies war eine Vorraussetzung, um Herr Buhl unser Programm vorstellen zu können. Darüberhinaus haben wir noch zusätzlich einige Modulle für Phython installiert, um unsere Anwendung auf diesem PC ausführen zu können. Wie bereits auch schon die Wochen zuvor, haben wir das Design unserer Projektseite noch weiter optimiert und einige Dinge verbssert bzw. überarbeitet. Wie es sich herausgestellt hatte, waren einige Kommentare, die wir zuvor überarbeitet hatten, nicht gespeichert worden, sodass wir diesen Prozess nochmal wiederholen mussten. 
 
+## Blogeintrag-15.12.22
+
+Nun sind wir am letzten Tag unseres Informatikprojekts angelangt. Jetzt galt es vor der eigentlichen Abgabe am morgigen Tag nocheinmal alles zu revidieren, um mögliche Fehler zu entdecken und auszubessern. Dabei haben wir noch einiges sowohl bei der Orthographie als auch Interpunktion verbessert. Als krönenden Abschluss haben wir gemeinsam eine Art Animation mit "Adobe After Effect noch zusätlichfür unsere Projektseite erstellt, welche als eine Art Symbol dienen soll. Die Animation haben wir zum Schluss an Beginn unserer Projektseite gepackt, weil wir davon überzeugt sind, dass diese Animation durch ihre besonderen Eigenschaften, die Aufmerksamkeit des Empfängers weckt.
 
 ## Quellen zum ehemaligen Projekt "VocabNow" 
 
