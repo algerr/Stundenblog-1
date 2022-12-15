@@ -57,17 +57,15 @@ Nun ist der Vokabeltrainer schon sehr weit gediehen. Der Vokabeltrainer ist bere
 
 ![blogeintrag laurenz 2](https://user-images.githubusercontent.com/111282979/205522000-f3d112cd-4f45-480d-a452-b73058150949.png)
 
-
 ## Blogeintrag-26.09.2022
 
 Die Spracherkennung wurde heute nochmal mehrmals getestet und funktioniert einwandfrei. Eine Vorlesestimme, welche die abgefragten Vokabeln vorliest, wurde ebenfalls eingebaut, funktioniert aber leider nicht auf iOS, wegen der bereits genannten Sicherheitsblockade. Zum Glück bezieht sich dies nur auf Webseiten, weshalb wir das Problem mit der Umwandlung unseres Vokabeltrainers in eine App beheben können sollten. Ebenfalls hatten wir uns überlegt, eine Funktion einzubauen, um Vokabeln, die man nicht kennt, überspringen zu können. Das soll erfolgen können, wenn die Spracherkennenung den Begriff "Weiter" vernimmt. Leider ist dies nun zu unserer größten Herausforderung geworden, weshalb wir uns damit noch mehr auseinandersetzen werden. Stattdessen haben wir aber bereits einen Zähler für richtige und falsche Vokbalen eingefügt, damit man eine Quote sieht, wie gut, bzw. schlecht man die Vokabeln kann. Die grüne "0" steht dabei für die Anzahl der richtig beantworteten Vokabeln und die rote "0" für die nicht beantworteten Vokabeln.
 
 ![carbon (7)](https://user-images.githubusercontent.com/65679099/207882704-c49daf65-b4e2-4f20-8d63-061a4aefebc2.png)
 
-
 ## Blogeintrag-06.10.2022
 
-Heute beschäftigen wir uns damit, die Text-To-Speech-Funktion in unseren Vokabeltrainer einzubauen, sodass die gefragte Vokabel automatisch vorgelesen wird. Zudem möchten wir einen "Button" einbauen, der es dem Nutzer ermöglichen soll, direkt auf Knopfdruck zurück zum Menü zu gelangen. Der Einbau des Buttons lief relativ schnell, während das Einbauen der Tex-To-Speech-Funktion Zeit benötigte. Mit dem Online-Dienst "[AppsGeyser]("https://www.apssgeyser.com)" konnten wir die Webseite bereits zu einer Android App konvertieren. Nach der Konvertierung war die App leider nicht richtig benutzbar, weshalb wir in der nächsten Stunde daran weiterarbeiten werden und auch schon versuchen, die App auch für iOS zugänglich zu machen.
+Heute beschäftigen wir uns damit, die Text-To-Speech-Funktion in unseren Vokabeltrainer einzubauen, sodass die gefragte Vokabel automatisch vorgelesen wird. Zudem möchten wir einen "Button" einbauen, der es dem Nutzer ermöglichen soll, direkt auf Knopfdruck zurück zum Menü zu gelangen. Der Einbau des Buttons lief relativ schnell, während das Einbauen der Text-To-Speech-Funktion Zeit benötigte. Mit dem Online-Dienst "[AppsGeyser]("https://www.apssgeyser.com)" konnten wir die Webseite bereits zu einer Android App konvertieren. Nach der Konvertierung war die App leider nicht richtig benutzbar, weshalb wir in der nächsten Stunde daran weiterarbeiten werden und auch schon versuchen, die App auch für iOS zugänglich zu machen.
 
 ![image](https://user-images.githubusercontent.com/111282979/205522951-00921a66-bb98-4ff6-95fa-8a468d7bb3c5.png)
 
