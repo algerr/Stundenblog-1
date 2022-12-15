@@ -93,8 +93,8 @@ Für die Erstellung weiterer Grafiken, wie beispielsweise dem Genom, haben wir d
 ## Blogeintrag-14.11.2022
 
 Trotz dessen, dass Herr Buhl in dieser Doppelstunde krankheitsbedingt ausfallen musste, konnten wir selbstständig an unserem Projekt weiterarbeiten. Wir hatten hierzu Kommentare im Quelltext überarbeitet und die Erklärungstexte nochmals verbessert formuliert, weil diese, unserer Ansicht nach, nicht verständlich genug waren. Außerdem haben wir noch passende Abbildungen zu den Texten zur Visualisierung hinzugefügt. Bei der Bearbeitung ist uns noch aufgefallen, dass die Quellen bei den verschiedensten Dingen fehlten, weshalb wir diese raussuchen mussten, und in die passenden Zeilen in den einzelnen Texten ergänzt haben. 
-![image](https://user-images.githubusercontent.com/111282979/207611589-f3a4b4bd-9eb1-4fba-8cff-06e6685572c4.png)
 
+![carbon (14)](https://user-images.githubusercontent.com/65679099/207897536-7d4cea64-6cec-45a3-a929-5aedb80e4e3e.png)
 
 ## Blogeintrag-17.11.22 
 
