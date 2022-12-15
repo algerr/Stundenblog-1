@@ -112,7 +112,7 @@ Heute haben wir uns damit beschäftigt Phython auf dem PC von Herr Buhl zu insta
 
 ## Blogeintrag-15.12.22
 
-Nun sind wir am letzten Tag unseres Informatikprojekts angelangt. Jetzt galt es vor der eigentlichen Abgabe am morgigen Tag nocheinmal alles zu revidieren, um mögliche Fehler zu entdecken und auszubessern. Dabei haben wir noch einiges sowohl bei der Orthographie als auch Interpunktion verbessert. Als krönenden Abschluss haben wir gemeinsam eine Art Animation mit "Adobe After Effect noch zusätlichfür unsere Projektseite erstellt, welche als eine Art Symbol dienen soll. Die Animation haben wir zum Schluss an Beginn unserer Projektseite gepackt, weil wir davon überzeugt sind, dass diese Animation durch ihre besonderen Eigenschaften, die Aufmerksamkeit des Empfängers weckt.
+Nun sind wir am letzten Tag unseres Informatikprojekts angelangt. Jetzt galt es vor der eigentlichen Abgabe am morgigen Tag nocheinmal alles zu revidieren, um mögliche Fehler zu entdecken und auszubessern. Dabei haben wir noch einiges sowohl bei der Orthographie als auch Interpunktion an Fehlern entdeckt und es verbessert. Als krönenden Abschluss haben wir gemeinsam eine Art Animation mit "Adobe After Effects" noch zusätlich für unsere Projektseite erstellt, welche als eine Art Symbol dienen soll. Die Animation haben wir zum Schluss an den Beginn unserer Projektseite gepackt, weil wir davon überzeugt sind, dass diese Animation durch ihre besonderen Eigenschaften, die Aufmerksamkeit des Empfängers weckt.
 
 ## Quellen zum ehemaligen Projekt "VocabNow" 
 
