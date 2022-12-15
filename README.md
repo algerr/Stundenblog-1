@@ -107,6 +107,7 @@ Darüberhinaus würden noch weitere Grafiken und Quelltextausschnitte behilflich
 
 - [Zum ferngesteuerten Arbeiten](https://replit.com/)
 - [Zur Erstellung der Vokabeldatenbank](https://www.mysql.com/)
+- [Die Deutsch-Englisch Vokabel-JSON-Datei](https://github.com/hathibelagal/German-English-JSON-Dictionary)
 - [Zum Erstellen der Überschrift der Blogeinträge](https://leviarista.github.io/github-profile-header-generator/)
 - https://developer.mozilla.org/en-US/?retiredLocale=dehttps://de.wikipedia.org/wiki/Hypertext_Markup_Language
 - [Die Spracherkunng von VocabNow](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
