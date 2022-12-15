@@ -22,7 +22,6 @@ Wer eine Sprache erlernen will, kann sie nicht umgehen und spätestens seit der 
 Da uns das Problem der letzten Stunde mit der zufälligen Ausgabe von Vokabeln auch danach noch beschäftigte, arbeiteten wir zu Hause daran weiter und fanden bald eine Lösung. Dafür wurde in der Datenbank im Table *Eng_De* ein Wert **Vocab** eingegeben, der von nun an alle Vokabeln von Englisch zu Deutsch im Format **Englisch_Deutsch** beinhaltet. Damit ist die zufällige Ausgabe von Vokabeln nun ein Kinderspiel und der ausgegebene Wert muss nur im Unterstrich getrennt werden, sodass die englische und deutsche Vokabel einzeln verwendet werden können. Da Laurenz leider krankheitsbedingt abwesend war und Daniel über keine weitreichenden Programmierkenntnisse verfügte, widmete er sich der Erstellung der Webseite, über die VocabNow später laufen soll. Er erlernte in den beiden Doppelstunden die Grundlagen der Auszeichnungssprache [**HTML (Hyper-Text-Markup-Language)**](https://de.wikipedia.org/wiki/Hypertext_Markup_Language). Außerdem überlegte er sich, was man noch in die App einbauen könne. So entstand die Idee, dem Nutzer die Bedienung der Seite erheblich zu erleichtern, sodass, wie im vorigen Blogeintrag bereits beschrieben, ein Vokabellernen auf Knopfdruck möglich ist. Doch durch die Möglichkeit, am Projekt auch ferngesteuert zu arbeiten, konnte auch Laurenz seinen Teil leisten, indem er am "Backend", der Entwicklung des Systems hinter der Webseite, weiterarbeitete.
 
 ![image](https://user-images.githubusercontent.com/65679099/207005106-61316a9c-2c84-46e5-a528-ffb6986166a6.png)
-![carbon (10)](https://user-images.githubusercontent.com/65679099/207887302-d394396c-5111-4da0-9245-fade0b8047e0.png)
 
 ## Blogeintrag-29.08.2022
 
@@ -52,9 +51,10 @@ Nach mehreren Versuchen, die [MySQL-Datenbank](https://www.mysql.com/) einzubaue
 
 ## Blogeintrag-22.09.2022
 
-Nun ist der Vokabeltrainer schon sehr weit gediehen. Der Vokabeltrainer ist bereits in der Lage, ungefähr die Hälfte der Vokabeln zu erkennen. Leider muss sich die Seite nach jeder Vokabel aktualisieren, um ein zufällige weitere auszugeben. Diese beiden Mängel sind nun noch zu beheben. Nach der ersten Stunde haben wir es nun geschafft, nachdem die richtige Vokabel erkannt wurde, die nächste Vokabel direkt auszugeben, aber das Problem, dass nicht jede Übersetzung erkannt wurde, bestand leider weiterhin. Selbst nach dem Ende der beiden heutigen Informatikstunden wurde das Problem mit der Spracherkennung immer noch nicht behoben. Daran arbeiten wir in der nächsten Stunde weiter.
+Nun ist der Vokabeltrainer schon sehr weit gediehen. Der Vokabeltrainer ist bereits in der Lage ungefähr die Hälfte der Vokabeln zu erkennen. Leider muss sich die Seite nach jeder Vokabel aktualisieren, um ein zufällige weitere auszugeben. Diese beiden Mängel sind nun noch zu beheben. Nach der ersten Stunde haben wir es nun geschafft, nachdem die richtige Vokabel erkannt wurde, die nächste Vokabel direkt auszugeben, aber das Problem, dass nicht jede Übersetzung erkannt wurde, bestand leider weiterhin. Selbst nach dem Ende der beiden heutigen Informatikstunden wurde das Problem mit der Spracherkennung immer noch nicht behoben. Daran arbeiten wir in der nächsten Stunde weiter.
 
-![carbon (8)](https://user-images.githubusercontent.com/65679099/207884415-b7d9cff0-9575-4183-827f-39fea9ce3a54.png)
+![blogeintrag laurenz 2](https://user-images.githubusercontent.com/111282979/205522000-f3d112cd-4f45-480d-a452-b73058150949.png)
+
 
 ## Blogeintrag-26.09.2022
 
@@ -104,11 +104,15 @@ Ein Aspekt, an dem wir noch ausgiebig arbeiteten war die Erklärung, wie die zuf
 In dieser Doppelstunde haben wir die Erklärung der zufälligen Bewegungen vervollständigt. Daraufhin, da nun der gesamte Quelltext doumentiert ist, haben wir noch die letzte Funktion erklärt. Die *Main()*-Funktion. In dieser werden die gesamten Variablen, die als Parameter genutzt werden, initialisiert und letztendlich die Simulation gestartet. 
 Darüberhinaus würden noch weitere Grafiken und Quelltextausschnitte behilflich sein, um dem Leser das Ganze noch verständlicher darzulegen.
 
+## Blogeintrag-12.12.22 
+
+Heute haben wir uns damit beschäftigt Phython auf dem PC von Herr Buhl zu installieren. Dies war eine Vorraussetzung, um Herr Buhl unser Programm vorstellen zu können. Darüberhinaus haben wir noch zusätzlich einige Modulle für Phython installiert, um unsere Anwendung auf diesem PC ausführen zu können. Wie bereits auch schon die Wochen zuvor, haben wir das Design unserer Projektseite noch weiter optimiert und einige Dinge verbssert bzw. überarbeitet. Wie es sich herausgestellt hatte, waren einige Kommentare, die wir zuvor überarbeitet hatten, nicht gespeichert worden, sodass wir diesen Prozess nochmal wiederholen mussten. 
+
+
 ## Quellen zum ehemaligen Projekt "VocabNow" 
 
 - [Zum ferngesteuerten Arbeiten](https://replit.com/)
 - [Zur Erstellung der Vokabeldatenbank](https://www.mysql.com/)
-- [Die Deutsch-Englisch Vokabel-JSON-Datei](https://github.com/hathibelagal/German-English-JSON-Dictionary)
 - [Zum Erstellen der Überschrift der Blogeinträge](https://leviarista.github.io/github-profile-header-generator/)
 - https://developer.mozilla.org/en-US/?retiredLocale=dehttps://de.wikipedia.org/wiki/Hypertext_Markup_Language
 - [Die Spracherkunng von VocabNow](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
