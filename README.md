@@ -51,10 +51,9 @@ Nach mehreren Versuchen, die [MySQL-Datenbank](https://www.mysql.com/) einzubaue
 
 ## Blogeintrag-22.09.2022
 
-Nun ist der Vokabeltrainer schon sehr weit gediehen. Der Vokabeltrainer ist bereits in der Lage ungefähr die Hälfte der Vokabeln zu erkennen. Leider muss sich die Seite nach jeder Vokabel aktualisieren, um ein zufällige weitere auszugeben. Diese beiden Mängel sind nun noch zu beheben. Nach der ersten Stunde haben wir es nun geschafft, nachdem die richtige Vokabel erkannt wurde, die nächste Vokabel direkt auszugeben, aber das Problem, dass nicht jede Übersetzung erkannt wurde, bestand leider weiterhin. Selbst nach dem Ende der beiden heutigen Informatikstunden wurde das Problem mit der Spracherkennung immer noch nicht behoben. Daran arbeiten wir in der nächsten Stunde weiter.
+Nun ist der Vokabeltrainer schon sehr weit gediehen. Der Vokabeltrainer ist bereits in der Lage, ungefähr die Hälfte der Vokabeln zu erkennen. Leider muss sich die Seite nach jeder Vokabel aktualisieren, um ein zufällige weitere auszugeben. Diese beiden Mängel sind nun noch zu beheben. Nach der ersten Stunde haben wir es nun geschafft, nachdem die richtige Vokabel erkannt wurde, die nächste Vokabel direkt auszugeben, aber das Problem, dass nicht jede Übersetzung erkannt wurde, bestand leider weiterhin. Selbst nach dem Ende der beiden heutigen Informatikstunden wurde das Problem mit der Spracherkennung immer noch nicht behoben. Daran arbeiten wir in der nächsten Stunde weiter.
 
-![blogeintrag laurenz 2](https://user-images.githubusercontent.com/111282979/205522000-f3d112cd-4f45-480d-a452-b73058150949.png)
-
+![carbon (8)](https://user-images.githubusercontent.com/65679099/207884415-b7d9cff0-9575-4183-827f-39fea9ce3a54.png)
 
 ## Blogeintrag-26.09.2022
 
