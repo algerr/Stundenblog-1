@@ -51,20 +51,28 @@ class Genom(object):
         # Mit einer Wahrscheinlichkeit von 1 zu 50 mutiert ein zufälliges Gen
         if random.randrange(50) == 0:
             self.mutation()
-
+            
     def mutation(self):
-        # Hierbei lassen sich die Werte, also die Wahrscheinlichkeiten für verschiedene Mutationen, beliebig ändern
+        # Der Mutationswert ist ein zufälliger Wert zwischen 0 und 15, 
+        # der darüber entscheidet, welches Gen mutiert
         MutationsWert = random.randrange(16)
         if MutationsWert < 2:
-            # Wenn der Mutationswert 0 oder 1 beträgt, erhält das jeweilige x-gen entweder den neuen Wert 0 oder 1
+        # Wenn der Mutationswert 0 oder 1 beträgt 
+        # (mit einer Wahrscheinlichkeit von 6,25%), 
+        # erhält das jeweilige x-gen entweder den neuen Wert 0 oder 1
             self.x_gen[MutationsWert] = random.randrange(2)
         elif MutationsWert >= 2 and MutationsWert < 5:
-            # Wenn der Mutationswert zwischen 2 und 4 liegt, erhält das y0-gen einen zufälligen Wert zwischen 0 und 7
+        # Wenn der Mutationswert zwischen 2 und 4 liegt
+        # (mit einer Wahrscheinlichkeit von 18,75%),
+        # erhält das y0-gen einen zufälligen Wert zwischen 0 und 7
             self.y_gen[0] = random.randrange(8)
         elif MutationsWert >= 5 and MutationsWert < 8:
-            # Wenn der Mutationswert zwischen 5 und 7 liegt, erhält das y1-gen einen zufälligen Wert zwischen 0 und 7
+        # Wenn der Mutationswert zwischen 5 und 7 liegt
+        # (mit einer Wahrscheinlichkeit von 18,75%),
+        # erhält das y1-gen einen zufälligen Wert zwischen 0 und 7
             self.y_gen[1] = random.randrange(8)
-        # Mit einer Wahrscheinlichkeit von 50% verändert sich das z_gen zu einem Wert zwischen -8 und 8
+        # Mit einer Wahrscheinlichkeit von 50% 
+        # verändert sich das z_gen zu einem Wert zwischen -8 und 8
         else:
             self.z_gen = random.randrange(9)
 
