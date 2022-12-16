@@ -121,16 +121,11 @@ Alles in allem muss nun lediglich noch das Ausführen des Programms auf Herrn Bu
 
 Heute sind wir am letzten Tag unseres Informatikprojektes des ersten Halbjahres angelangt. Nun galt es, vor der Abgabe nocheinmal alles zu revidieren, um mögliche Fehler zu entdecken und auszubessern. Dabei sind uns vor allem noch Fehler bei der Orthografie und Interpunktion aufgefallen, die gewiss unnötige Fehler gewesen wären. Heute glückte nun auch endlich das Ausführen des Programms auf Herrn Buhls PC, wodurch der Abgabe eigentlich nichts mehr im Weg stand. Als krönenden Abschluss haben wir noch eine Animation mit [Adobe After Effects](https://www.adobe.com/de/products/aftereffects.html) für unsere [Projektseite](https://github.com/algerr/Survival-of-the-fittest) erstellt, welche dem Projekt nun sowohl ein schönes Logo, als auch ein (Überschrift-)Banner verlieh. Da die Animation das Logo und den Text durch einen Pixel-/Glitcheffekt mit der Zeit aufdeckt, weckt diese Animation die Aufmerksamkeit des Lesers und lässt ihn auf die weitere Dokumentation des Projektes gespannt sein. Unser Projekt ist somit fertig und wir sind stolz darauf.
 
-## Quellen zum ehemaligen Projekt "VocabNow" 
+## Quellen zu den Blogeinträgen und dem ehemaligen Projekt "VocabNow" 
 
 - [Zum ferngesteuerten Arbeiten](https://replit.com/)
 - [Zur Erstellung der Vokabeldatenbank](https://www.mysql.com/)
 - [Zum Erstellen der Überschrift der Blogeinträge](https://leviarista.github.io/github-profile-header-generator/)
-- https://developer.mozilla.org/en-US/?retiredLocale=dehttps://de.wikipedia.org/wiki/Hypertext_Markup_Language
 - [Die Spracherkunng von VocabNow](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
-- https://de.wikipedia.org/wiki/Cascading_Style_Sheets
-- https://de.wikipedia.org/wiki/Hypertext_Markup_Language
-- [Das Design von VocabNow](https://particles.js.org/)
-- [Alternative Datenbank zu MySQL](https://www.json.org/json-de.html)
-
-
+- [Das Hintergrunddesign von VocabNow](https://particles.js.org/)
+- [Alternative Datenspeicherung zu MySQL](https://www.json.org/json-de.html)
