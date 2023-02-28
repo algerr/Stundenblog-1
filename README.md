@@ -129,3 +129,13 @@ Heute sind wir am letzten Tag unseres Informatikprojektes des ersten Halbjahres 
 - [Die Spracherkunng von VocabNow](https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition)
 - [Das Hintergrunddesign von VocabNow](https://particles.js.org/)
 - [Alternative Datenspeicherung zu MySQL](https://www.json.org/json-de.html)
+
+
+
+
+
+
+
+
+Seit der letzten Stunde hatten ich und Laurenz bereits versucht im Baumarkt alle nötigen Bauteile zu beschaffen, die wir benötigten, um mit dem Bau der Teslaspule zu beginnen. Unteranderem benötigten wir Kupferdraht, einen Eisenkern, einen Tranformator und weitere Bauteile. Leider fanden wir vergebens etwas, was wir benötigen würden. Aufgrund des Tatbestands widmeten wir uns dem Versuch ersteinmal abzuwarten, um die nötigen Bauteile aus der Physikräumen in unserer Schule zu holen. In diesen beiden Doppelstunden war Laurenz leider abwesend, weshalb ich selbst die Aufgabe der Bauteilenanschafung in die Hand nahm. Zuerst einmal began ich mit dem Umwickeln des Kupferdrahts um den Eisernkern herum, um die Primärspule zu konstruiren. Glücklicherweise verfügte unsere Schule über Kupferdrahtvoräte, die uns zur Verfügung gestellt wurden. Die Herausforderung bei der Herrstellung der ersten Spule, bestand nun darin, das Kupferdraht um den Eisenkern, ohne eine Drehbank zu wickeln.
+
